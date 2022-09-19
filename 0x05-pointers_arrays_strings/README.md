@@ -1,1 +1,1 @@
-4-print_rev.c 
+task 6
